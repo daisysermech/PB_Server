@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0C2mr8i6esS8F1qow1oCUmKcbhpB0zabamJT6N2rA5s=",
+  "Source": "PB_Server",
+  "BasePath": "_content/PB_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
